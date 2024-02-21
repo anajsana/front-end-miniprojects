@@ -2,6 +2,9 @@
 
 ⭐️ This is part of a project for my Front-End Master as part of the JavaScript module. This project is for academic purposes only. For any further questions or potential contributions, please feel free to open an issue or submit a pull request 🙋‍♀️
 
+<img src="https://github.com/anajsana/front-end-miniprojects/assets/43671777/855ffb26-8e19-4589-b93e-c9b8064fd56d" width="500">
+
+
 ## Overview
 
 This web application leverages the OpenFFS scorecard API to evaluate the security vulnerabilities of given repositories. It covers various aspects such as source code, build processes, dependencies, testing, and project maintenance. The app shows an overall security scorecard ranking for a given repository and visualizes the checks through a radial graph. This project uses Chart.js for rendering the graphical representations. The interface includes a dynamic FAQ section for addressing common inquiries.
