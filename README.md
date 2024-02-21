@@ -53,11 +53,12 @@ Below are a few examples that works and you can sue to test:
 - github.com/kubernetes/kubernetes (should fetch data from https://api.securityscorecards.dev/projects/github.com/kubernetes/kubernetes)
 - gitbub.com/openssf/scorecard (should fetch data from https://api.securityscorecards.dev/projects/github.com/ossf/scorecard)
 
-![screenshot](./Assets/json-data-preview.png)
+<img src="https://github.com/anajsana/front-end-miniprojects/assets/43671777/ba7a8ec9-5f20-4921-a885-c69789d15664" width="500">
+
 
 ## Future Work
 
-Plans to deploy the web application for broader accessibility, potentially using Netlify to simplify the deployment process
+Plans to deploy for broader accessibility, potentially using Netlify to simplify the process
 
 ## License
 
