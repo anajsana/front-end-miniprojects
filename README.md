@@ -7,11 +7,11 @@
 
 ## Overview
 
-This web application leverages the OpenFFS scorecard API to evaluate the security vulnerabilities of given repositories. It covers various aspects such as source code, build processes, dependencies, testing, and project maintenance. The app shows an overall security scorecard ranking for a given repository and visualizes the checks through a radial graph. This project uses Chart.js for rendering the graphical representations. The interface includes a dynamic FAQ section for addressing common inquiries.
+This web application leverages the OpenSSF scorecard API to evaluate the security vulnerabilities of given repositories. It covers various aspects such as source code, build processes, dependencies, testing, and project maintenance. The app shows an overall security scorecard ranking for a given repository and visualizes the checks through a radial graph. This project uses Chart.js for rendering the graphical representations. The interface includes a dynamic FAQ section for addressing common inquiries.
 
 ## Features
 
-- Security Analysis: Fetches data from the OpenFFS scorecard API to assess vulnerabilities.
+- Security Analysis: Fetches data from the OpenSSF scorecard API to assess vulnerabilities.
 - Radial Graph Visualization: Uses Chart.js (MIT license) to display the security checks in a radial graph
 - Styled Interface: Responsive design styled with CSS
 - Dynamic FAQ Section: For user guidance and information
@@ -22,7 +22,7 @@ This web application leverages the OpenFFS scorecard API to evaluate the securit
 js/
     faq.js - Handles the FAQ section toggling
     radar-chart.js - Configures the Chart.js canvas for the radial graph
-    fetch-api.js - Performs the GET request to the OpenFFS scorecard API
+    fetch-api.js - Performs the GET request to the OpenSSF scorecard API
 css/
     style.css - Styling rules
 index.html - Structure
