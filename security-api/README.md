@@ -41,7 +41,7 @@ Enter the repository name you wish to analyze in the provided input field and su
 Make sure the format you use is:
 
 ```
-platfrom/organization/repo
+platform/organization/repo
 ```
 
 Below are a few examples that works and you can sue to test:
